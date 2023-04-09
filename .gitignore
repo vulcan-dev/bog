@@ -1,5 +1,6 @@
 build
 *.obj
+*.pdb
 
 # RemedyBG & 10x Editor
 *.rdbg 
